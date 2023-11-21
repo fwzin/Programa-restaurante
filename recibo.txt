@@ -1,0 +1,8 @@
+Recibo do Pedido:
+Data e Hora do Pedido: 21/11/2023 14:46:44
+Funcionário: alisson
+Produto: bife - R$ 20.30
+Cobrar Garçom: Sim
+Valor Total do Pedido: R$ 23.34
+Pedido registrado com sucesso. Obrigado!
+
